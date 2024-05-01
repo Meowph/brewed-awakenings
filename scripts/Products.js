@@ -27,7 +27,7 @@ document.addEventListener (
 
         if (itemClicked.dataset.type === "product") {
 
-        window.alert(`${itemClicked.dataset.name} costs ${itemClicked.dataset.price}`)
+        window.alert(`${itemClicked.dataset.name} costs $${itemClicked.dataset.price}`)
         }
     }
 )
