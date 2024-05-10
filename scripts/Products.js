@@ -31,9 +31,3 @@ document.addEventListener (
         }
     }
 )
-
-/*const productId = itemClicked.dataset.id
-for (const product of products) {
-    if (parseInt(product.id) === productId)
-    productId++
-} */
